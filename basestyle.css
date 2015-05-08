@@ -1,0 +1,414 @@
+
+#applicationFrame { position:relative; margin:0px auto; padding:0px; width: 960px; height: 472px !important; overflow: hidden;}
+#applicationFrame .application { background-image: url('n.jpg'); width: 960px; height: 720px; }
+
+table.dataTable thead th, table.dataTable thead td {
+padding: 0px 0px;
+}
+
+table.dataTable tbody th, table.dataTable tbody td {
+  padding: 8px 0px;
+}
+
+.modal-dialog {
+margin: -158px -187px 17px;
+width: 650px;
+z-index:2;
+}
+.modal-content{
+-webkit-box-shadow:0 3px 9px rgba(0,0,0,.2);
+}
+.tooltip-inner{
+  min-width: 235px;
+}
+
+.tooltip.right {
+	margin-left: 10px;
+	margin-top: 9px;
+}
+
+.panel-title {
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.panel {
+  border: 0px;
+  box-shadow: 0px 0px 0px;
+}
+
+.has-switch{
+  height: 26px;
+}
+
+.navbtn {
+  background:white !important;
+  height: 38px !important;
+}
+.navbtn:hover{
+  background:#DAE0E9 !important; 
+}
+.navbtn:a{
+  background:#DAE0E9 !important;
+}
+.selected{
+  background: #DAE0E9 !important;
+}
+ .navbar
+ {
+	margin-bottom:0px;
+ }
+ 
+ a{
+  color: #333333;
+}
+ul
+{
+    padding:0px;
+    list-style:none;
+}
+
+hr{
+    margin-bottom: 0px;
+}
+
+textarea.form-control {
+	height: 115px;
+}
+
+.input-group .form-control 
+{
+        height: 34px;
+}
+
+.form-control{
+        height: 34px;
+}
+
+.form
+{
+        background:white;   
+}
+
+.btn
+{
+        height: 34px;
+}
+
+.input-group-addon{
+        height: 34px;
+}
+
+
+.btn .caret{
+        margin-left: 12px;
+}
+.btn-primary
+{
+    background: #122466;
+    
+}
+
+.btn-default
+{
+    background: #dae0e9;
+    
+}
+.btn-default:hover
+{
+    background: #fff;
+    
+}
+.dropdown{
+        width: 10px;
+}
+
+
+.frameForm{
+width: 890px;    
+padding-bottom:30px;
+margin: 0 auto;
+background-color: white;
+ display: block;
+}
+ 
+.img{
+padding: 0px 0px 0px;
+}
+
+.col-md-1{
+        width: 20px;
+}
+
+.col-md-2{
+width: 90px;
+}
+
+.col-md-3{
+        width:113px;
+}
+
+.col-md-4{
+width: 145px;
+}
+
+.col-md-5{
+        width: 203px;
+}
+.col-md-6{
+        width: 289px;
+}
+.col-md-7{
+        width: 307px;
+}
+.col-md-8{
+      width: 411px; 
+}
+.col-md-9{
+		width:484px;
+}
+.col-md-10{
+    
+}
+.col-md-12{
+width: 902px;
+}
+.inputdefualt{
+  width: 215px !important;
+}
+
+.inputbig{
+  width: 315px !important;
+}
+
+.modalinputsize
+{
+	width: 275px !important;
+}
+.modalGap{
+  margin-left: 44px;
+}
+.modalGapExp{
+  margin-left: 22px;
+}
+
+.form-horizontal
+{
+   width:960px; 
+   margin: 0 auto;
+   border: 1px solid rgba(0,0,0,0.2);
+   min-height: 550px;    
+}
+
+#header {
+    margin: 0 auto;
+    border-right: none;
+    border-left: none;
+    width: 958px;
+    height: 74px;
+    background-color: white;
+    z-index:99;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  margin-top:0;
+}
+
+fieldset{
+    width:960px;
+}
+
+
+.space{
+        padding-left: 5px;
+}
+ input {
+        padding-left: 5px;
+ }
+
+label{
+        
+        color: #333333;
+
+}
+
+.form-control{
+border:1px solid #ccc;
+}
+
+
+.test{
+        margin-right: 120px;
+}
+
+.has-switch label{
+                max-height: 30px;
+                height:34px;
+}
+
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+padding-right:0px;
+}
+
+.table{
+ width: 960px;
+ float: center;
+ border-bottom: 1px solid #DAD6D6;
+  
+}
+.container-fluid{
+padding-right: 0px;
+padding-left: 0px;
+}
+
+.datepicker.dropdown-menu {
+  width: 250px;
+  height: 270px;
+  button {
+    outline: none;
+    border: 0px;
+  }
+  tbody {
+    height: 180px;
+  }
+  tbody button {
+    padding: 6px;
+  }
+
+  &.datepicker-mode-1, &.datepicker-mode-2 {
+    tbody button {
+      height: 65px;
+    }
+  }
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control
+{
+	background-color: #f7f7f7;
+}
+
+.dataTables_filter {
+   display: none;
+}
+
+.dataTables_length{
+	margin-top: 30px;
+	margin-left: 55%;
+	font-size:12px;
+	
+}
+
+.dataTables_info{
+	margin-left: 4.9%;
+	color:#999999 !important;
+	margin-top: 20px;
+	font-size:12px;
+}
+
+.dataTables_paginate{
+	margin-top: 27px;
+	margin-bottom: 20px;
+	margin-right: 32px;
+	font-size:12px;
+}
+
+.discounts input[type="text"]
+{
+	background: #fff url(img/percent.png) no-repeat right;
+
+}
+
+.dropdown-menu.pull-right
+{
+	margin-top:-2px;
+}
+.sidelabel
+{
+	margin-top: 7px;
+}
+
+
+.panel-heading
+{
+	height:34px;
+}
+
+ a:hover
+ {
+	text-decoration:none;
+	cursor: pointer;
+ }
+
+.tint {
+	position: relative;
+	float: left;
+	cursor: pointer;
+}
+
+.tint:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgba(114, 114, 114, 0);
+	-moz-transition: background .3s linear;
+	-webkit-transition: background .3s linear;
+	-o-transition: background .3s linear;
+	transition: background .3s linear;
+}
+
+.tint:hover:before {
+	background: rgba(114, 114, 114, .1);
+}
+
+.custombutton
+{
+	margin-left: 13px;
+	background: white;
+	border: 1px solid #ccc;
+	width: 114px;
+}
+
+.smalllink
+{
+	font-size:12px;
+	color: #999;
+	text-decoration:underline;
+}
+
+.BoxBorder{
+  width:230px;
+  height: 259px;
+  border:2px dashed #ccc;
+  box-sizing: border-box;
+}
+
+.form-control::-webkit-input-placeholder{
+  font-size: 12px;
+}
+.form-control::-moz-placeholder{
+  font-size: 12px;
+}
+
+.form-control:-ms-input-placeholder{
+   font-size: 12px;
+}
+
+.pluseMark input[type="text"]
+{
+  background: #fff url(img/plus.png) no-repeat;
+}
+.minMark input[type="text"]
+{
+  background: #fff url(img/minus.png) no-repeat;
+}
+
+.borderless{
+border-bottom: none !important;
+}
